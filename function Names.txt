@@ -5,3 +5,13 @@ GameObject And Class Name : CreateAndJoinRooms / Function Name : GetRoomData
 
 This Functions If Player Leave
 GameObject And Class Name : PlayerSpawner / Function Name : LeaveSpace
+
+This Fuction for Model Transform
+GameObject And Class Name : ModelTransform / Function Name : ChangeXAxis
+GameObject And Class Name : ModelTransform / Function Name : ChangeYAxis
+GameObject And Class Name : ModelTransform / Function Name : ChangeZAxis
+GameObject And Class Name : ModelTransform / Function Name : ChangeRotation
+GameObject And Class Name : ModelTransform / Function Name : ChangeScale
+
+This Function Will send data to Zaid for UI
+sendTransform(x, y, z, rotation, scale, isShow);

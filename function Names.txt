@@ -15,3 +15,9 @@ GameObject And Class Name : ModelTransform / Function Name : ChangeScale
 
 This Function Will send data to Zaid for UI
 sendTransform(x, y, z, rotation, scale, isShow);
+
+This Fuction for Uploaded Model
+GameObject And Class Name : UploadedModelLoader / Function Name : UplodedModel
+
+This Fuction for Uploaded Image
+GameObject And Class Name : ImageLoader / Function Name : ImgLoader

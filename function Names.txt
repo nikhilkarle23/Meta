@@ -19,5 +19,6 @@ sendTransform(x, y, z, rotation, scale, isShow);
 This Fuction for Uploaded Model
 GameObject And Class Name : UploadedModelLoader / Function Name : UplodedModel
 
-This Fuction for Uploaded Image
+This Fuction for Uploaded Image & Video
 GameObject And Class Name : ImageLoader / Function Name : ImgLoader
+GameObject And Class Name : VideoLoad / Function Name : VideoLoader
